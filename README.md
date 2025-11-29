@@ -146,7 +146,7 @@ Idéal pour étudiants, ingénieurs débutants, makers et formateurs.
 
 ---
 
-##🤝 Contributions
+## 🤝 Contributions
 Toutes contributions sont les bienvenues :
 Nouveaux scénarios
 Nouveaux modèles IA
