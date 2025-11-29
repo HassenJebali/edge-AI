@@ -129,13 +129,13 @@ streamlit run dashboard/streamlit_app.py
 ```
 ---
 
-##🧩 Architecture générale
+## 🧩 Architecture générale
 
 Capteurs Virtuels → MQTT → STM32 Virtuel (TFLite) → MQTT → Dashboard
       ↓                            ↓
    Dataset ML              Anomalies / Optimisation
 
-##📘 Objectifs pédagogiques
+## 📘 Objectifs pédagogiques
 Créer un pipeline complet IoT + IA embarquée
 Entraîner des modèles adaptés au microcontrôleur
 Comprendre la valeur du preprocessing et des seuils
