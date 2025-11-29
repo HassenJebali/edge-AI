@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+tensorflow==2.13.0
+tflite-runtime
+paho-mqtt
+streamlit
+python-dateutil
+tqdm
